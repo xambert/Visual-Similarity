@@ -44,6 +44,7 @@ Follow Ups :
 2- Designing Back-End to store images in database. \
 3- Designing Online Model capable of adding images and recommending similar images.
 
+[Shareable Link](https://colab.research.google.com/drive/1yplRgVTWz4ZDmK2FQxheAcV-LbRzKjpb?usp=sharing)
 
 
 
