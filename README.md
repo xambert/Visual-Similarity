@@ -32,7 +32,7 @@ Has Following Functions
 
 3. **Storing Similar files and values as pickle file.** Now we can recommend images on any machine(provided we have input images) without running our model.
 
-4.**Plotting our Reccomendation**
+4.**Plotting our Recommendation**
 - Shows 10 most similar images from our DataBase
 
 Notes -
