@@ -32,16 +32,16 @@ Has Following Functions
 
 3. **Storing Similar files and values as pickle file.** Now we can recommend images on any machine(provided we have input images) without running our model.
 
-4.** Plotting our Reccomendation**
+4.**Plotting our Reccomendation**
 - Shows 10 most similar images from our DataBase
 
 Notes -
-Offline model- Results are produced and stored on the system. If new values are added, we have to retrain our model.
+Offline model- Results are produced and stored on the system. If new values are added, we have to retrain our model. \
 Data is loaded from **Google Drive** and the project is made on Google Colab.
 
 Follow Ups :
-1- Designing Front-End to display images
-2- Designing Back-End to store images in database.
+1- Designing Front-End to display images \
+2- Designing Back-End to store images in database. \
 3- Designing Online Model capable of adding images and recommending similar images.
 
 
